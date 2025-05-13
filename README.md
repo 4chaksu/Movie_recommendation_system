@@ -41,7 +41,7 @@ This project is a **Content-Based Movie Recommender System** that suggests simil
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Movie_recommendation_system.git
+   git clone https://github.com/4chaksu/Movie_recommendation_system.git
 2. Navigate to the project directory
    ```bash
    cd Movie_recommendation_system
